@@ -15,6 +15,7 @@
    :maxdepth: 2
    :caption: 常见问题
 
+   FAQ-ran.rst
    说明书解决问题.rst
 
 
