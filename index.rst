@@ -11,6 +11,11 @@
    :caption: 连接计算机
    
    connect.rst
+.. toctree::
+   :maxdepth: 2
+   :caption: 常见问题
+
+   说明书解决问题.rst
 
 
 
