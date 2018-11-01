@@ -39,10 +39,3 @@
 
    FAQ-ran.rst
    说明书解决问题.rst
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
