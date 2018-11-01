@@ -7,6 +7,12 @@
 =======================================
 
 .. toctree::
+   :maxdepth: 1
+   :caption: 如何开机
+
+   BP.md
+
+.. toctree::
    :maxdepth: 2
    :caption: 连接计算机
    
@@ -18,12 +24,6 @@
 
    调试计算机.md
    
-.. toctree::
-   :maxdepth: 2
-   :caption: 常见问题
-
-   FAQ-ran.rst
-   说明书解决问题.rst
 
 .. toctree::
    :maxdepth: 2
@@ -32,10 +32,11 @@
    调试投影仪.md
 
 .. toctree::
-   :maxdepth: 1
-   :caption: 如何开机
+   :maxdepth: 2
+   :caption: 常见问题
 
-   BP.md
+   FAQ-ran.rst
+   说明书解决问题.rst
 
 Indices and tables
 ==================
