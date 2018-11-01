@@ -11,12 +11,20 @@
    :caption: 连接计算机
    
    connect.rst
+   
+.. toctree::
+   :maxdepth: 2
+   :caption: 调试计算机
+
+   调试计算机.md
+   
 .. toctree::
    :maxdepth: 2
    :caption: 常见问题
 
    FAQ-ran.rst
    说明书解决问题.rst
+<<<<<<< HEAD
 .. toctree::
    :maxdepth: 2
    :caption: 调试投影仪
@@ -27,6 +35,9 @@
    :caption: 如何开机
 
    BP
+=======
+   
+>>>>>>> 30c225e52c5f7d9e106577cde66e77021631689c
 
 
 
