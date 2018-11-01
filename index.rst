@@ -17,6 +17,16 @@
 
    FAQ-ran.rst
    说明书解决问题.rst
+.. toctree::
+   :maxdepth: 2
+   :caption: 调试投影仪
+
+   调试投影仪
+.. toctree::
+   :maxdepth: 1
+   :caption: 如何开机
+
+   BP
 
 
 
