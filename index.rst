@@ -3,8 +3,12 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-爱普生（Epson）投影仪欢迎您！
+爱普生（EPSON）投影仪欢迎您！
 =======================================
+
+=======================================
+本指南将指导您如何在课堂上使用爱普生投影仪。
+======================================
 
 .. toctree::
    :maxdepth: 1
