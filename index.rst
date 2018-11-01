@@ -24,22 +24,18 @@
 
    FAQ-ran.rst
    说明书解决问题.rst
-<<<<<<< HEAD
+
 .. toctree::
    :maxdepth: 2
    :caption: 调试投影仪
 
-   调试投影仪
+   调试投影仪.md
+
 .. toctree::
    :maxdepth: 1
    :caption: 如何开机
 
-   BP
-=======
-   
->>>>>>> 30c225e52c5f7d9e106577cde66e77021631689c
-
-
+   BP.md
 
 Indices and tables
 ==================
